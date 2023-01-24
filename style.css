@@ -1,0 +1,53 @@
+body .lesson1 {
+  height: 20vh;
+  background: saddlebrown; /* red, blue, yellow, etc */
+  color: chocolate; /* red, blue, yellow, etc */
+  font-size: 25px; /* 0px - 100px and beyond */
+  font-weight: bold; /* lighter, normal, bold  */
+  text-align: center; /* left, center or right  */
+  display: block;
+}
+p {
+  padding-top: 82px;
+}
+.lesson5 img.logo-img {
+  display: block;
+  width: 300px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.lesson5 input.search-input {
+  display: block;
+  width: 400px;
+  line-height: 24px;
+  padding: 10px 30px 10px 30px;
+  margin: auto;
+  border: 1px solid #dfe1e5;
+  border-radius: 24px;
+}
+.lesson5 div.main {
+  margin-top: 100px;
+}
+.lesson5 div.main button {
+  border-radius: 5px;
+  padding: 5px;
+}
+.lesson5 div.main button.followTwitter {
+  color: #0f1419;
+  background-color: white;
+  padding: 10px 20px 10px 20px;
+  border-radius: 20px;
+  font-weight: bold;
+  border: 1px solid #cfd9de;
+}
+.lesson5 div.main button.btn {
+  display: block;
+  margin: 30px auto 0;
+  padding:8px 16px;
+  border: none;
+  font-size: 16px;
+  border-radius: 4px;
+  font-weight: 500;
+  background-color: #dfe1e5;
+}
